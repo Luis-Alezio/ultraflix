@@ -1,10 +1,18 @@
 body{
     color: cornsilk;
-    background-color: black;
+    background: black;
 }
 header {
     border: solid 2px blue;
     padding: 20px;
     font-size: 32px;
     color: blueviolet;
+}
+
+section {
+    background: rgb(184, 156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
